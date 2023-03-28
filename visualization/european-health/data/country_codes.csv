@@ -1,0 +1,54 @@
+Code,ISO 2,ISO 3,WHO code,Short name,Full name
+ALB,AL,ALB,ALB,Albania,Albania
+AND,AD,AND,AND,Andorra,Andorra
+ARM,AM,ARM,ARM,Armenia,Armenia
+AUT,AT,AUT,AUT,Austria,Austria
+AZE,AZ,AZE,AZE,Azerbaijan,Azerbaijan
+BLR,BY,BLR,BLR,Belarus,Belarus
+BEL,BE,BEL,BEL,Belgium,Belgium
+BIH,BA,BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina
+BGR,BG,BGR,BUL,Bulgaria,Bulgaria
+HRV,HR,HRV,CRO,Croatia,Croatia
+CYP,CY,CYP,CYP,Cyprus,Cyprus
+CZE,CZ,CZE,CZH,Czechia,Czech Republic
+DNK,DK,DNK,DEN,Denmark,Denmark
+EST,EE,EST,EST,Estonia,Estonia
+FIN,FI,FIN,FIN,Finland,Finland
+FRA,FR,FRA,FRA,France,France
+GEO,GE,GEO,GEO,Georgia,Georgia
+DEU,DE,DEU,DEU,Germany,Germany
+GRC,GR,GRC,GRE,Greece,Greece
+HUN,HU,HUN,HUN,Hungary,Hungary
+ISL,IS,ISL,ICE,Iceland,Iceland
+IRL,IE,IRL,IRE,Ireland,Ireland
+ISR,IL,ISR,ISR,Israel,Israel
+ITA,IT,ITA,ITA,Italy,Italy
+KAZ,KZ,KAZ,KAZ,Kazakhstan,Kazakhstan
+KGZ,KG,KGZ,KGZ,Kyrgyzstan,Kyrgyzstan
+LVA,LV,LVA,LVA,Latvia,Latvia
+LTU,LT,LTU,LTU,Lithuania,Lithuania
+LUX,LU,LUX,LUX,Luxembourg,Luxembourg
+MLT,MT,MLT,MAT,Malta,Malta
+MCO,MC,MCO,MON,Monaco,Monaco
+MNE,ME,MNE,MNE,Montenegro,Montenegro
+NLD,NL,NLD,NET,Netherlands,Netherlands
+MKD,MK,MKD,MKD,North Macedonia,North Macedonia
+NOR,NO,NOR,NOR,Norway,Norway
+POL,PL,POL,POL,Poland,Poland
+PRT,PT,PRT,POR,Portugal,Portugal
+MDA,MD,MDA,MDA,Republic of Moldova,Republic of Moldova
+ROU,RO,ROU,ROM,Romania,Romania
+RUS,RU,RUS,RUS,Russian Federation,Russian Federation
+SMR,SM,SMR,SMR,San Marino,San Marino
+SRB,RS,SRB,SRB,Serbia,Serbia
+SVK,SK,SVK,SVK,Slovakia,Slovakia
+SVN,SI,SVN,SVN,Slovenia,Slovenia
+ESP,ES,ESP,SPA,Spain,Spain
+SWE,SE,SWE,SWE,Sweden,Sweden
+CHE,CH,CHE,SWI,Switzerland,Switzerland
+TJK,TJ,TJK,TJK,Tajikistan,Tajikistan
+TUR,TR,TUR,TUR,Turkey,Turkey
+TKM,TM,TKM,TKM,Turkmenistan,Turkmenistan
+UKR,UA,UKR,UKR,Ukraine,Ukraine
+GBR,GB,GBR,UNK,United Kingdom,United Kingdom
+UZB,UZ,UZB,UZB,Uzbekistan,Republic of Uzbekistan
